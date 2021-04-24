@@ -1,1 +1,1 @@
-# Digital-Signal-Processing-
+# Digital-Signal-Processing-Function for DFT and IDFT
